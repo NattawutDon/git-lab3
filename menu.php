@@ -1,6 +1,6 @@
 <?php
    echo "Home";
    echo "Product";
-   echo "Map";
+   echo "Map1";
    echo "About me";
    ?>
